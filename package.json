@@ -2,7 +2,7 @@
   "name": "goit-typescript-hw-01",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "ServerWatch": "tsc -watch",
     "start": "web-dev-server --node-resolve --open --watch"
