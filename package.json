@@ -4,8 +4,8 @@
   "description": "",
   "main": "./dist/index.js",
   "scripts": {
-    "ServerWatch": "tsc -watch",
-    "start": "web-dev-server --node-resolve --open --watch"
+    "Server Watch": "tsc -watch",
+    "Start dev server": "web-dev-server --node-resolve --open --watch"
   },
   "keywords": [],
   "author": "",
