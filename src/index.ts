@@ -8,5 +8,3 @@ if (button && input) {
         concatenation(input.value, "hello!");
     });
 }
-function handleEvent(event: string, handler: (params: any[]) => void): void {  }
-handleEvent("click", () => { console.log("Clicked!") }); handleEvent("mouseover", (x: number, y: number) => { console.log(`Mouse at ${x}, ${y}`); });
